@@ -19,7 +19,7 @@ require (
 	github.com/emicklei/go-restful v2.15.0+incompatible // indirect
 	github.com/evanphx/json-patch v5.6.0+incompatible
 	github.com/fatih/structs v1.1.0 // indirect
-	github.com/gavv/httpexpect/v2 v2.3.1
+	github.com/gavv/httpexpect/v2 v2.4.0
 	github.com/go-openapi/jsonreference v0.20.0
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/gogo/protobuf v1.3.2
@@ -44,7 +44,7 @@ require (
 	github.com/spf13/viper v1.14.0
 	github.com/stretchr/testify v1.8.1
 	github.com/tidwall/gjson v1.14.3
-	github.com/valyala/fasthttp v1.30.0 // indirect
+	github.com/valyala/fasthttp v1.34.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonschema v1.2.0
@@ -88,7 +88,7 @@ require (
 	github.com/ProtonMail/go-crypto v0.0.0-20210428141323-04723f9f07d7 // indirect
 	github.com/acomagu/bufpipe v1.0.3 // indirect
 	github.com/ajg/form v1.5.1 // indirect
-	github.com/andybalholm/brotli v1.0.3 // indirect
+	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/awalterschulze/gographviz v0.0.0-20200901124122-0eecad45bd71 // indirect
 	github.com/aws/aws-sdk-go v1.44.39 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.16.7 // indirect
@@ -203,7 +203,6 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	moul.io/http2curl v1.0.1-0.20190925090545-5cd742060b0e // indirect
 	sigs.k8s.io/controller-runtime v0.11.2 // indirect
 	sigs.k8s.io/json v0.0.0-20211208200746-9f7c6b3444d2 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
@@ -214,6 +213,7 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.2.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.1.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.5 // indirect
+	moul.io/http2curl/v2 v2.3.0 // indirect
 )
 
 replace github.com/go-git/go-git/v5 => github.com/argoproj-labs/go-git/v5 v5.4.4
