@@ -18,7 +18,7 @@ require (
 	github.com/doublerebel/bellows v0.0.0-20160303004610-f177d92a03d3
 	github.com/evanphx/json-patch v5.6.0+incompatible
 	github.com/fatih/structs v1.1.0 // indirect
-	github.com/gavv/httpexpect/v2 v2.12.0
+	github.com/gavv/httpexpect/v2 v2.13.0
 	github.com/go-openapi/jsonreference v0.20.2
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/gogo/protobuf v1.3.2
@@ -207,6 +207,7 @@ require (
 require (
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	github.com/emicklei/go-restful/v3 v3.8.0 // indirect
+	github.com/gobwas/glob v0.2.4-0.20181002190808-e7a84e9525fe // indirect
 	github.com/google/gnostic v0.5.7-v3refs // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.2.3 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.3 // indirect
