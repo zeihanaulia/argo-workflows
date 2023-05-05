@@ -29,7 +29,7 @@ require (
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/imkira/go-interpol v1.1.0 // indirect
-	github.com/klauspost/pgzip v1.2.5
+	github.com/klauspost/pgzip v1.2.6
 	github.com/minio/minio-go/v7 v7.0.52
 	github.com/prometheus/client_golang v1.15.1
 	github.com/prometheus/client_model v0.4.0
