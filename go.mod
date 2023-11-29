@@ -52,8 +52,8 @@ require (
 	golang.org/x/oauth2 v0.15.0
 	golang.org/x/sync v0.5.0
 	golang.org/x/time v0.5.0
-	google.golang.org/api v0.151.0
-	google.golang.org/genproto v0.0.0-20231016165738-49dd2c1f3d0b // indirect
+	google.golang.org/api v0.152.0
+	google.golang.org/genproto v0.0.0-20231106174013-bbf56f31fb17 // indirect
 	google.golang.org/grpc v1.59.0
 	gopkg.in/go-playground/webhooks.v5 v5.17.0
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
@@ -69,9 +69,9 @@ require (
 )
 
 require (
-	cloud.google.com/go v0.110.8 // indirect
-	cloud.google.com/go/compute v1.23.1 // indirect
-	cloud.google.com/go/iam v1.1.3 // indirect
+	cloud.google.com/go v0.110.10 // indirect
+	cloud.google.com/go/compute v1.23.3 // indirect
+	cloud.google.com/go/iam v1.1.5 // indirect
 	github.com/Azure/azure-sdk-for-go v65.0.0+incompatible // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest v0.11.28 // indirect
@@ -202,7 +202,7 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
 )
 
-require google.golang.org/genproto/googleapis/api v0.0.0-20231016165738-49dd2c1f3d0b
+require google.golang.org/genproto/googleapis/api v0.0.0-20231106174013-bbf56f31fb17
 
 require (
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
@@ -232,7 +232,7 @@ require (
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/tools v0.13.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20231030173426-d783a09b4405 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20231120223509-83a465c0220f // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
 )
 
