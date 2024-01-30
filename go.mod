@@ -128,7 +128,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
-	github.com/google/go-containerregistry v0.18.0
+	github.com/google/go-containerregistry v0.19.0
 	github.com/google/go-containerregistry/pkg/authn/k8schain v0.0.0-20220411142604-2042cc9d6401
 	github.com/google/go-containerregistry/pkg/authn/kubernetes v0.0.0-20220301182634-bfe2ffc6b6bd // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
