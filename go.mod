@@ -3,7 +3,7 @@ module github.com/argoproj/argo-workflows/v3
 go 1.18
 
 require (
-	cloud.google.com/go/storage v1.41.0
+	cloud.google.com/go/storage v1.42.0
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/TwinProduction/go-color v0.0.3
@@ -198,7 +198,7 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
 )
 
-require google.golang.org/genproto/googleapis/api v0.0.0-20240521202816-d264139d666e
+require google.golang.org/genproto/googleapis/api v0.0.0-20240604185151-ef581f913117
 
 require (
 	cloud.google.com/go/auth v0.5.1 // indirect
