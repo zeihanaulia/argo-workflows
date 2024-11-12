@@ -51,7 +51,7 @@ require (
 	golang.org/x/net v0.31.0
 	golang.org/x/oauth2 v0.24.0
 	golang.org/x/sync v0.9.0
-	golang.org/x/time v0.7.0
+	golang.org/x/time v0.8.0
 	google.golang.org/api v0.205.0
 	google.golang.org/genproto v0.0.0-20241021214115-324edc3d5d38 // indirect
 	google.golang.org/grpc v1.67.1
