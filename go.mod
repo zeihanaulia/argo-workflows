@@ -51,9 +51,9 @@ require (
 	golang.org/x/oauth2 v0.25.0
 	golang.org/x/sync v0.10.0
 	golang.org/x/time v0.9.0
-	google.golang.org/api v0.216.0
+	google.golang.org/api v0.217.0
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697 // indirect
-	google.golang.org/grpc v1.69.2
+	google.golang.org/grpc v1.69.4
 	gopkg.in/go-playground/webhooks.v5 v5.17.0
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
@@ -199,8 +199,8 @@ require (
 require google.golang.org/genproto/googleapis/api v0.0.0-20241209162323-e6fa225c2576
 
 require (
-	cloud.google.com/go/auth v0.13.0 // indirect
-	cloud.google.com/go/auth/oauth2adapt v0.2.6 // indirect
+	cloud.google.com/go/auth v0.14.0 // indirect
+	cloud.google.com/go/auth/oauth2adapt v0.2.7 // indirect
 	cloud.google.com/go/compute/metadata v0.6.0 // indirect
 	dario.cat/mergo v1.0.1 // indirect
 	filippo.io/edwards25519 v1.1.0 // indirect
@@ -216,7 +216,7 @@ require (
 	github.com/gobwas/glob v0.2.4-0.20181002190808-e7a84e9525fe // indirect
 	github.com/goccy/go-json v0.10.4 // indirect
 	github.com/google/gnostic-models v0.6.8 // indirect
-	github.com/google/s2a-go v0.1.8 // indirect
+	github.com/google/s2a-go v0.1.9 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.4 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
@@ -238,7 +238,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.33.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/exp v0.0.0-20240416160154-fe59bbe5cc7f // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250102185135-69823020774d // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250106144421-5f5ef82da422 // indirect
 	gopkg.in/jcmturner/goidentity.v2 v2.0.0 // indirect
 	moul.io/http2curl/v2 v2.3.0 // indirect
 )
